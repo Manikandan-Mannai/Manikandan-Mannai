@@ -1,4 +1,4 @@
-<img align="center" style="margin auto" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"/>
+<img align="center"  width="100%" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Manikandan</h1>
 <h3 align="center">Engineering-Student | Web Developer | Freelancer </h3><br>
 
