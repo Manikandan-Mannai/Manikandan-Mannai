@@ -23,7 +23,7 @@ I'm a newbie coder who is interested in a lot of things related to programming a
 
 <p algin="right">
    <img src="https://github-readme-stats.vercel.app/api?username=Manikandan-Mannai&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Manikandan's github stats" width=450px/>
-</p><br><br>
+</p><br>
 
 <h1>💻 Things I know</h1>
 
