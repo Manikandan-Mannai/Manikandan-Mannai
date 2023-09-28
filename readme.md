@@ -96,7 +96,7 @@ I am a passionate React.js developer who is pursuing my engineering degree simul
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/manikandan-a-82a14b27b/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/iammanikandan.webdev/)
 [<img src="https://img.shields.io/badge/fiverr-%2312100E.svg?&style=for-the-badge&logo=fiverr&logoColor=white&color=black" />](https://www.fiverr.com/manikandan2k2?up_rollout=true)
-[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=email&logoColor=white&color=black" />](mailto:sabashahbaz001@gmail.com)
+[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=email&logoColor=white&color=black" />](mailto:iammanikandan.mannai@gmail.com)
 </p>
 
 <br/>
