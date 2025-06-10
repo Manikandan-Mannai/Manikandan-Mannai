@@ -1,5 +1,3 @@
-<img align="center" width="100%" src="./Assets/Banner.png"/>
-
 # 👋 Hi, I'm Manikandan
 
 ## 💼 Frontend Developer | AI-Powered Interfaces | SDE @ NetoAI
